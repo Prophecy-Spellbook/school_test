@@ -1,3 +1,3 @@
 # school_test
 
-PyScript 실
+PyScript 실험용.
